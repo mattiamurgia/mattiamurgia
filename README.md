@@ -17,7 +17,7 @@ At the moment I am looking for new challenging opportunities that can help me gr
           
 <p align="center">
   <a href="https://skillicons.dev">           
-<img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,js,c,aws,ts,php,mysql,mongodb,express,sass,git,nodejs,angular,tailwind,java,dotnet,figma,codepen,devto,github,postman,redux,regex,vscode,visualstudio,py,cs&theme=light" /></p>         
+<img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,js,ts,sass,angular,tailwind,postman,c,aws,php,mysql,mongodb,express,git,nodejs,java,dotnet,figma,codepen,devto,github,redux,regex,vscode,visualstudio,py,cs&theme=light" /></p>         
 </div> 
 
 <br/> 
@@ -28,6 +28,6 @@ At the moment I am looking for new challenging opportunities that can help me gr
             <img align="left" src="https://streak-stats.demolab.com?user=mattiamurgia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400&card_margin=100)" alt="mattiamurgia" vertical-align="middle"/> </a>
   
   <a href="https://github.com/mattiamurgia">
-            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamurgia&layout=donut&count_private=true" alt="mattiamurgia" vertical-align="middle"/> </a>
+            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamurgia&layout=donut&count_private=true&langs_count=10&hide=Less" alt="mattiamurgia" vertical-align="middle"/> </a>
 </div>
  
