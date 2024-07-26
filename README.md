@@ -18,7 +18,7 @@ professionally. 📚👨‍💻🚀</ins>*
           
 <p align="center">
   <a href="https://skillicons.dev">           
-<img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,js,ts,sass,angular,tailwind,postman,c,aws,php,mysql,mongodb,express,git,nodejs,java,dotnet,vue,aiscript,spring,hibernate,github,redux,regex,vscode,jquery,py,cs&theme=light" /></p>         
+<img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,js,ts,sass,angular,tailwind,postman,c,aws,php,mysql,mongodb,express,git,nodejs,java,dotnet,vue,aiscript,spring,hibernate,github,redux,regex,vscode,jquery,py&theme=light" /></p>         
 </div> 
 
 <br/> 
